@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Wikipedia Desktop to Mobile Redirect (Improved)
 // @namespace    http://tampermonkey.net/
-// @version      3.1.0
+// @version      1.0
 // @author       RM
 // @description  Redirect desktop Wikipedia to mobile version with better error handling, URL parsing, and update checks.
-// @homepageURL  https://github.com/ODRise/WikiM
+// @homepageURL  https://github.com/OD728/WikiM
 // @match        https://*.wikipedia.org/*
 // @exclude      https://*.m.wikipedia.org/*
 // @exclude      https://m.wikipedia.org/*
@@ -17,8 +17,8 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_info
 // @grant        GM_notification
-// @downloadURL  https://raw.githubusercontent.com/ODRise/WikiM/main/wikipedia-desktop-to-mobile-redirect.user.js
-// @updateURL    https://raw.githubusercontent.com/ODRise/WikiM/main/wikipedia-desktop-to-mobile-redirect.user.js
+// @downloadURL  https://raw.githubusercontent.com/OD728/WikiM/main/wikipedia-desktop-to-mobile-redirect.user.js
+// @updateURL    https://raw.githubusercontent.com/OD728/WikiM/main/wikipedia-desktop-to-mobile-redirect.user.js
 // @license      MIT
 // ==/UserScript==
 
